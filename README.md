@@ -4,7 +4,7 @@ A premium landing page for **The Tea House**, a retail supplier of high-quality 
 
 ## Live Demo
 Check out the live website here:
-🔗 **[Live Demo Link]([https://your-live-demo-link.com](https://my-tea-house-bd.netlify.app/)**
+🔗 [Live Demo](https://my-tea-house-bd.netlify.app/)
 
 ## About / Purpose
 The Tea House landing page is designed to attract customers and present a luxurious yet minimalist brand image for a boutique tea provider. It functions as a complete responsive showcase featuring:
