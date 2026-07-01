@@ -50,18 +50,6 @@ If you are using **VS Code**:
 3. Right-click on `index.html` and select **Open with Live Server**.
 4. The page will open on a local host (default: `http://127.0.0.1:5500/index.html`) with live-reload enabled.
 
-### Method 3: Static Server via CLI
-You can launch a simple local HTTP server from your terminal inside the project root directory:
-- **Node.js (npx)**:
-  ```bash
-  npx serve .
-  ```
-- **Python 3**:
-  ```bash
-  python -m http.server 8000
-  ```
-  Open `http://localhost:8000` in your web browser.
-
 ## Technologies Used
 * **HTML5**: Semantic tags for modern, accessible web architecture.
 * **Tailwind CSS v4 (browser script CDN)**: Fast utility-first styling.
